@@ -1,0 +1,22 @@
+software development Java:
+
+1. Java SDK -> runtime
+2. Apache Maven -> kompilasi, depedensi manajemen
+3. Editor : Notepad++, netbeans, eclips, IDEA
+4. Database : Mysql, Oracle
+
+
+software kolaborasi :
+1. version control : Git, Github, Bitbucket, dsb
+2. Quip
+
+
+Pilihan download java :
+SDK : software development kit  : compile + run
+JRE : java runtime environtment : run
+SE : Standart Edition
+EE : Enterprise Edition
+
+
+1. C:\Users\ceisa-djbc>mvn archetype:create -D groupId=training-java -DartifactId=a
+plikasi-halo
