@@ -1,3 +1,0 @@
-TrainingJava
-============
-testing
